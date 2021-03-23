@@ -250,3 +250,5 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+/yolov5l_visdrone.wts
+/yolov5m_visdrone.wts
